@@ -1,6 +1,6 @@
 {
   "name": "slowdown",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Scrub and visualize the audio of audio and videos",
   "main": "src/slowdown.js",
   "scripts": {
@@ -21,7 +21,6 @@
     "type": "git",
     "url": "https://github.com/francoislaberge/slowdown.git"
   },
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/francoislaberge/slowdown/issues"
   },
