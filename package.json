@@ -16,5 +16,14 @@
     "volume"
   ],
   "author": "Francois Laberge <francoislaberge@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francoislaberge/slowdown.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/francoislaberge/slowdown/issues"
+  },
+  "homepage": "https://github.com/francoislaberge/slowdown"
 }
